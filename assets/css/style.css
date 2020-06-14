@@ -35,7 +35,8 @@ header nav ul li a {
     text-decoration: none;
 }
 /*Header Style End*/
-/*Hero*/
+
+/*Hero style start*/
 .hero {
     height: 800px;
     width: 100%;
@@ -44,6 +45,8 @@ header nav ul li a {
     background-size: cover;
     background-position: center;
 }
+/*Hero Style ends*/
+
 /*online services style start*/
 .services{
     width: 75%;
@@ -76,6 +79,7 @@ header nav ul li a {
     font-size: 14px;
 }
 /*online services style end*/
+
 /*Benefit style start*/
 .benefits {
     margin-right: 20px;
