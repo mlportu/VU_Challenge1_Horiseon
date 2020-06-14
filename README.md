@@ -9,7 +9,7 @@ Build for Vanderbilt Coding Bootcamp Challenge 1
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://mlportu.github.io/VU_Challenge1_Horiseon/
 
 ## Contribution
 Made by Mike Portu
